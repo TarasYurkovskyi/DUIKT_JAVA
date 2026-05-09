@@ -181,4 +181,3 @@ public class Main {
         deliveredOrders.forEach(o -> System.out.println("  ✓ Замовлення #" + o.getId() + " - " + o.getStatus()));
     }
 }
-
