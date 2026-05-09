@@ -113,7 +113,6 @@ public class Main {
                 System.out.println("\n" + "-".repeat(56));
             }
         }
-
         scanner.close();
     }
 
